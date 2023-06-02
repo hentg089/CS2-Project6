@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="threeTeller"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="threeTeller">
+				<Option output="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/threeTeller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 threeTeller"/>
+					<CompileFile command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="threeTeller/fast">
+				<Option output="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/threeTeller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/clion/CLion 2022.3.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 threeTeller/fast"/>
+					<CompileFile command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/Event.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/Event.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/EventBuilder.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/EventBuilder.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/LinkedList.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/LinkedList.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/LinkedQueue.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/LinkedQueue.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/LinkedSortedList.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/LinkedSortedList.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/PrecondViolatedExcep.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/PrecondViolatedExcep.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/PriorityQueue.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/PriorityQueue.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/Simulation.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/Simulation.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/Statistics.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/Statistics.h">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/project6.cpp">
+			<Option target="threeTeller"/>
+		</Unit>
+		<Unit filename="C:/Users/markh/OneDrive/Desktop/cs1521/projects/project6/threeTeller/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

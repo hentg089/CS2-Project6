@@ -1,0 +1,25 @@
+# ninja log v5
+17	850	7031285689708885	CMakeFiles/threeTeller1.dir/Statistics.cpp.obj	9bc71c11763d5fd3
+3	138	7031285682550810	CMakeFiles/threeTeller1.dir/Event.cpp.obj	61f34ebaf8365f62
+3	900	7031260802275596	CMakeFiles/threeTeller1.dir/LinkedQueue.cpp.obj	d8b9a7fc031d5cc1
+84	3905	7031245733312553	CMakeFiles/threeTeller1.dir/Node.cpp.obj	a2ddb117c6d24837
+18	1523	7031247591949255	CMakeFiles/threeTeller1.dir/LinkedSortedList.cpp.obj	af8a9e1f9b07fb01
+46	1521	7031247591949255	CMakeFiles/threeTeller1.dir/PriorityQueue.cpp.obj	a9cdc48a05f206
+174	3927	7031245733533385	CMakeFiles/threeTeller1.dir/PrecondViolatedExcep.cpp.obj	fda20ddc0c1660b0
+10	916	7031285690405956	CMakeFiles/threeTeller1.dir/project6.cpp.obj	99049b1de8c5726e
+31	529	7031285686541023	CMakeFiles/threeTeller1.dir/EventBuilder.cpp.obj	712e14f543c87bc6
+917	1724	7031285698434749	threeTeller1.exe	5b355c0c98ea2a94
+24	857	7031285689783989	CMakeFiles/threeTeller1.dir/Simulation.cpp.obj	80858bb2b13ba74b
+0	1002	7031382704172184	build.ninja	4a7ca88b1f561c90
+42	487	7031382710629849	CMakeFiles/threeTeller1.dir/Event.cpp.obj	61f34ebaf8365f62
+34	772	7031382713444507	CMakeFiles/threeTeller1.dir/LinkedQueue.cpp.obj	d8b9a7fc031d5cc1
+23	809	7031382713842386	CMakeFiles/threeTeller1.dir/PriorityQueue.cpp.obj	a9cdc48a05f206
+16	875	7031382714530401	CMakeFiles/threeTeller1.dir/EventBuilder.cpp.obj	712e14f543c87bc6
+3	1090	7031382716539465	CMakeFiles/threeTeller1.dir/Statistics.cpp.obj	9bc71c11763d5fd3
+10	1153	7031382717298468	CMakeFiles/threeTeller1.dir/Simulation.cpp.obj	80858bb2b13ba74b
+49	1245	7031382718215182	CMakeFiles/threeTeller1.dir/project6.cpp.obj	99049b1de8c5726e
+1245	1560	7031382720871243	threeTeller1.exe	5b355c0c98ea2a94
+15	824	7031383255757095	CMakeFiles/threeTeller1.dir/Statistics.cpp.obj	9bc71c11763d5fd3
+24	848	7031383256038296	CMakeFiles/threeTeller1.dir/Simulation.cpp.obj	80858bb2b13ba74b
+3	951	7031383257052327	CMakeFiles/threeTeller1.dir/project6.cpp.obj	99049b1de8c5726e
+952	1142	7031383258917959	threeTeller1.exe	5b355c0c98ea2a94

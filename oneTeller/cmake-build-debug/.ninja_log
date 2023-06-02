@@ -1,0 +1,20 @@
+# ninja log v5
+132	3953	7029519852483458	CMakeFiles/oneTeller.dir/Node.cpp.obj	9801ba4087ac1078
+23	585	7029535726436698	CMakeFiles/oneTeller.dir/LinkedSortedList.cpp.obj	da45f7d79a1892c4
+31	947	7029533782834228	CMakeFiles/oneTeller.dir/LinkedQueue.cpp.obj	6f96bc0440b0bfaf
+48	3958	7029519852589031	CMakeFiles/oneTeller.dir/PrecondViolatedExcep.cpp.obj	967823a0e6b0c04e
+13	648	7031378284122611	CMakeFiles/oneTeller.dir/Statistics.cpp.obj	7c223d9b71517a74
+496	1523	7031375210090327	CMakeFiles/oneTeller.dir/EventBuilder.cpp.obj	72bb8cdc7b030fe
+505	854	7031375203577000	CMakeFiles/oneTeller.dir/Event.cpp.obj	83e212edd3ae2d7e
+16	1505	7031375210030389	CMakeFiles/oneTeller.dir/PriorityQueue.cpp.obj	93e166976cbdd9c2
+18	973	7029533783146386	CMakeFiles/oneTeller.dir/LinkedList.cpp.obj	507168c50f4405e8
+23	628	7031378283942871	CMakeFiles/oneTeller.dir/Simulation.cpp.obj	a836fddfc70f561f
+4	692	7031378874087795	CMakeFiles/oneTeller.dir/project6.cpp.obj	12f78266cbba9cfb
+693	870	7031378875797046	oneTeller.exe	45c3025cc099c291
+48	2570	7032813761735716	build.ninja	561696895a9ff77f
+3	1827	7032813781073183	CMakeFiles/oneTeller.dir/project6.cpp.obj	12f78266cbba9cfb
+1828	2775	7032813790391689	oneTeller.exe	45c3025cc099c291
+22	764	7032814154692375	CMakeFiles/oneTeller.dir/Simulation.cpp.obj	a836fddfc70f561f
+3	806	7032814155029619	CMakeFiles/oneTeller.dir/Statistics.cpp.obj	7c223d9b71517a74
+10	828	7032814155365665	CMakeFiles/oneTeller.dir/project6.cpp.obj	12f78266cbba9cfb
+829	1055	7032814157573194	oneTeller.exe	45c3025cc099c291
